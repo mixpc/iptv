@@ -229,3 +229,62 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chu
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",TV3CAT
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/chunklist_b1296000_DVR.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://alcarria.tv/web/wp-content/uploads/2016/09/logotipo_alcarria_television.png" group-title="Local",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain PREMIUM-SERVER3",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cancionero-tv.png" group-title="SPAIN",Cancionero TV
+http://89.140.99.41/hls/1080.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain PREMIUM-SERVER3",DISCOVERY HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.canal10.cat/img/logofacebook_400x400.jpg" group-title="Local",Empordà TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain PREMIUM-SERVER3",ESPN
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain PREMIUM-SERVER3",GREEN PLANET
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain PREMIUM-SERVER3",ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Se15.png" group-title="General",La 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lebrija.tv/wp-content/uploads/2016/06/logo-web-2.png" group-title="Local",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.colectivosvip.com/public/colectivos/390/logo.png" group-title="Local",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain PREMIUM-SERVER3",SCI HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain PREMIUM-SERVER3",SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.tvalacarta.info/canales/256x256/teftv.png" group-title="SPAIN",TEF TV
+http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",TeleSafor HD
+http://video.telesafor.com/hls/video_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Spain PREMIUM-SERVER3",TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",324 SD
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Españoles",Calle 13 SD
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Españoles",Canal 13 España SD
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN Espanol
+http://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN Español
+http://bit.ly/2F0ODBz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Español.svg/1200px-CNN_en_Español.svg.png" group-title="LATINO",CNN en Español (Opt-1) (New!)
+http://181.176.176.2:8000/play/a027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Españoles",Divinity HD
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales Españoles",FDF HD
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://photocall.tv/images/france24.png" group-title="News",France 24 en Español
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",IB3 SD
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",TV Galicia America SD
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",TV Galicia Europa SD
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.firstonetv.eu/images/logos/us/CBN_ESPANOL.png" group-title="",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_2000_av-p.m3u8?sd=10&rebase=on
